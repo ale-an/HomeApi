@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeApi", "HomeApi\HomeApi.csproj", "{33752433-476F-47C9-BB24-211693316457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeApi.Contracts", "HomeApi.Contracts\HomeApi.Contracts.csproj", "{277989C6-B596-409C-8ADD-FAB7D2BDBE38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeApi.Data", "HomeApi.Data\HomeApi.Data.csproj", "{A4A9338E-D143-4463-BDB4-7C6C4EBE9F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33752433-476F-47C9-BB24-211693316457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33752433-476F-47C9-BB24-211693316457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33752433-476F-47C9-BB24-211693316457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33752433-476F-47C9-BB24-211693316457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277989C6-B596-409C-8ADD-FAB7D2BDBE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277989C6-B596-409C-8ADD-FAB7D2BDBE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277989C6-B596-409C-8ADD-FAB7D2BDBE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277989C6-B596-409C-8ADD-FAB7D2BDBE38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A9338E-D143-4463-BDB4-7C6C4EBE9F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A9338E-D143-4463-BDB4-7C6C4EBE9F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A9338E-D143-4463-BDB4-7C6C4EBE9F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A9338E-D143-4463-BDB4-7C6C4EBE9F74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
